@@ -1,6 +1,8 @@
 
 paradiseEdge is a repository of graphics and code with a little markup intended as a demo of workflow for production of digital media for the web
 
+![Man hunt down][1]
+
 [MrEdgy Art](http://ednaneziane.wix.com/edgyscrawl) a lead artist in  responsible for the artwork used in the composition and a lead director of [Paradise diary](https://www.facebook.com/ParadiseDiary/info)
 
 check out the note from ecceHomo to trace the man and let him speak for himself
@@ -20,3 +22,6 @@ all in all you are welcome to copy, modify and distribute the code and i will be
 
 
 > written by [rafszul](https://github.com/rafszul) + [weAreThePlayMakers](http://wearetheplaymakers.com/) with [StackEdit](https://stackedit.io/)
+
+
+  [1]: https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xfp1/t31.0-8/s720x720/10535584_693409510745732_4954347513733840764_o.jpg
