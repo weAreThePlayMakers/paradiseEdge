@@ -3,7 +3,7 @@
 
 ![Man hunt down][1]
 
-[MrEdgy Art](http://ednaneziane.wix.com/edgyscrawl) a lead artist in  responsible for the artwork used in the composition and a lead director of [Paradise diary](https://www.facebook.com/ParadiseDiary/info)
+[MrEdgy Art](http://ednaneziane.wix.com/edgyscrawl) a lead artist in  responsible for the artwork used in the composition and a lead director of [Paradise diary](https://www.facebook.com/ParadiseDiary/)
 
 check out the note from ecceHomo to trace the man and let him speak for himself
 
