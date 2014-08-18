@@ -1,23 +1,24 @@
 {
-	"name": "manHuntDown003-2.psd.ai",
+	"name": "manHuntDown004-1.psd.ai",
 	"width": 1500,
 	"height": 603,
 	"layers": [
 		{
-			"x": "481.00",
-			"y": "-622.00",
-			"r": "824.00",
+			"x": "0.00",
+			"y": "-723.00",
+			"r": "1500.00",
 			"b": "-120.00",
-			"width": "343.00",
-			"height": "502.00",
-			"layername": "Layer 13",
-			"name": "Layer-13",
-			"type": "div",
+			"width": "1500.00",
+			"height": "603.00",
+			"layername": "Noa.png",
+			"name": "Noa",
+			"type": "png",
+			"filename": "Noa.png",
 			"visible": true,
 			"items": [
 				{
-					"x": 0,
-					"y": 0,
+					"x": 481,
+					"y": 101,
 					"r": "824.00",
 					"b": "-120.00",
 					"width": "343.00",
@@ -27,24 +28,10 @@
 					"type": "png",
 					"filename": "Noa.png",
 					"visible": true
-				}
-			]
-		},
-		{
-			"x": "481.00",
-			"y": "-622.00",
-			"r": "1095.00",
-			"b": "-120.00",
-			"width": "614.00",
-			"height": "502.00",
-			"layername": "Layer 12",
-			"name": "Layer-12",
-			"type": "div",
-			"visible": true,
-			"items": [
+				},
 				{
-					"x": 0,
-					"y": 0,
+					"x": 481,
+					"y": 101,
 					"r": "1095.00",
 					"b": "-120.00",
 					"width": "614.00",
@@ -54,24 +41,10 @@
 					"type": "png",
 					"filename": "Joel.png",
 					"visible": true
-				}
-			]
-		},
-		{
-			"x": "162.00",
-			"y": "-504.00",
-			"r": "358.00",
-			"b": "-140.00",
-			"width": "196.00",
-			"height": "364.00",
-			"layername": "Layer 11",
-			"name": "Layer-11",
-			"type": "div",
-			"visible": true,
-			"items": [
+				},
 				{
-					"x": 0,
-					"y": 0,
+					"x": 162,
+					"y": 219,
 					"r": "358.00",
 					"b": "-140.00",
 					"width": "196.00",
@@ -81,24 +54,10 @@
 					"type": "png",
 					"filename": "cop01ForegroundLeft.png",
 					"visible": true
-				}
-			]
-		},
-		{
-			"x": "984.00",
-			"y": "-538.00",
-			"r": "1213.00",
-			"b": "-136.00",
-			"width": "229.00",
-			"height": "402.00",
-			"layername": "Layer 10",
-			"name": "Layer-10",
-			"type": "div",
-			"visible": true,
-			"items": [
+				},
 				{
-					"x": 0,
-					"y": 0,
+					"x": 984,
+					"y": 185,
 					"r": "1213.00",
 					"b": "-136.00",
 					"width": "229.00",
@@ -108,24 +67,10 @@
 					"type": "png",
 					"filename": "cop02ForegroundRight.png",
 					"visible": true
-				}
-			]
-		},
-		{
-			"x": "1331.00",
-			"y": "-427.00",
-			"r": "1500.00",
-			"b": "-174.00",
-			"width": "169.00",
-			"height": "253.00",
-			"layername": "Layer 9",
-			"name": "Layer-9",
-			"type": "div",
-			"visible": true,
-			"items": [
+				},
 				{
-					"x": 0,
-					"y": 0,
+					"x": 1331,
+					"y": 296,
 					"r": "1500.00",
 					"b": "-174.00",
 					"width": "169.00",
@@ -135,21 +80,7 @@
 					"type": "png",
 					"filename": "ForeRighLow.png",
 					"visible": true
-				}
-			]
-		},
-		{
-			"x": "0.00",
-			"y": "-723.00",
-			"r": "125.00",
-			"b": "-548.00",
-			"width": "125.00",
-			"height": "175.00",
-			"layername": "Layer 8",
-			"name": "Layer-8",
-			"type": "div",
-			"visible": true,
-			"items": [
+				},
 				{
 					"x": 0,
 					"y": 0,
@@ -162,23 +93,9 @@
 					"type": "png",
 					"filename": "ForeLeftUp.png",
 					"visible": true
-				}
-			]
-		},
-		{
-			"x": "1278.00",
-			"y": "-723.00",
-			"r": "1500.00",
-			"b": "-409.00",
-			"width": "222.00",
-			"height": "314.00",
-			"layername": "Layer 7",
-			"name": "Layer-7",
-			"type": "div",
-			"visible": true,
-			"items": [
+				},
 				{
-					"x": 0,
+					"x": 1278,
 					"y": 0,
 					"r": "1500.00",
 					"b": "-409.00",
@@ -189,24 +106,10 @@
 					"type": "png",
 					"filename": "ForeRightUp.png",
 					"visible": true
-				}
-			]
-		},
-		{
-			"x": "878.00",
-			"y": "-454.00",
-			"r": "1011.00",
-			"b": "-168.00",
-			"width": "133.00",
-			"height": "286.00",
-			"layername": "Layer 6",
-			"name": "Layer-6",
-			"type": "div",
-			"visible": true,
-			"items": [
+				},
 				{
-					"x": 0,
-					"y": 0,
+					"x": 878,
+					"y": 269,
 					"r": "1011.00",
 					"b": "-168.00",
 					"width": "133.00",
@@ -216,24 +119,10 @@
 					"type": "png",
 					"filename": "cop03BackgroundRight.png",
 					"visible": true
-				}
-			]
-		},
-		{
-			"x": "451.00",
-			"y": "-392.00",
-			"r": "569.00",
-			"b": "-166.00",
-			"width": "118.00",
-			"height": "226.00",
-			"layername": "Layer 5",
-			"name": "Layer-5",
-			"type": "div",
-			"visible": true,
-			"items": [
+				},
 				{
-					"x": 0,
-					"y": 0,
+					"x": 451,
+					"y": 331,
 					"r": "569.00",
 					"b": "-166.00",
 					"width": "118.00",
@@ -243,21 +132,7 @@
 					"type": "png",
 					"filename": "cop04BackgroundLeft.png",
 					"visible": true
-				}
-			]
-		},
-		{
-			"x": "0.00",
-			"y": "-723.00",
-			"r": "1500.00",
-			"b": "-120.00",
-			"width": "1500.00",
-			"height": "603.00",
-			"layername": "Layer 4",
-			"name": "Layer-4",
-			"type": "div",
-			"visible": true,
-			"items": [
+				},
 				{
 					"x": 0,
 					"y": 0,
@@ -265,10 +140,10 @@
 					"b": "-120.00",
 					"width": "1500.00",
 					"height": "603.00",
-					"layername": "Background.jpg10ÊImage",
+					"layername": "Background.png",
 					"name": "Background",
-					"type": "jpg10ÊImage",
-					"filename": "Background.jpg10ÊImage",
+					"type": "png",
+					"filename": "Background.png",
 					"visible": true
 				}
 			]
