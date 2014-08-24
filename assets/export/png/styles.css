@@ -1,8 +1,80 @@
-#Noa{
+#Background{
 	position:absolute;
 	left:0px;
-	top:-723px;
+	top:0px;
 	width:1500px;
 	height:603px;
+}
+
+#cop04BackgroundLeft{
+	position:absolute;
+	left:451px;
+	top:331px;
+	width:118px;
+	height:226px;
+}
+
+#cop03BackgroundRight{
+	position:absolute;
+	left:878px;
+	top:269px;
+	width:133px;
+	height:286px;
+}
+
+#ForeRightUp{
+	position:absolute;
+	left:1278px;
+	top:0px;
+	width:222px;
+	height:314px;
+}
+
+#ForeLeftUp{
+	position:absolute;
+	left:0px;
+	top:0px;
+	width:125px;
+	height:175px;
+}
+
+#ForeRighLow{
+	position:absolute;
+	left:1331px;
+	top:296px;
+	width:169px;
+	height:253px;
+}
+
+#cop02ForegroundRight{
+	position:absolute;
+	left:984px;
+	top:185px;
+	width:229px;
+	height:402px;
+}
+
+#cop01ForegroundLeft{
+	position:absolute;
+	left:162px;
+	top:219px;
+	width:196px;
+	height:364px;
+}
+
+#Joel{
+	position:absolute;
+	left:704px;
+	top:132px;
+	width:391px;
+	height:471px;
+}
+
+#Noa{
+	position:absolute;
+	left:481px;
+	top:101px;
+	width:343px;
+	height:502px;
 }
 
