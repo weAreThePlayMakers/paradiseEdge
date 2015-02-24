@@ -1,0 +1,84 @@
+body {
+    font-family: monospace;
+    
+    font-size: 18px;
+    background: #05040B;
+    color: #05040B;
+    margin: 0;
+}
+img {
+    display: block;
+    min-width: 100%;
+
+    
+}
+
+.container {
+    position: relative;
+    max-width: 100%;
+}
+
+.scene {
+    padding: 40px;
+    margin: 0px;
+}
+
+.expand-width {
+    width: 100%;
+}
+
+.layer:nth-child(1) {
+    min-width: 100%;
+    min-height: 100%;
+    opacity: 0.90;
+}
+
+.layer:nth-child(2) {
+    min-width: 100%;
+    opacity: 0.8;
+}
+
+.layer:nth-child(3) {
+    min-width: 100%;
+    opacity: 1;
+}
+
+.layer:nth-child(4) {
+    min-width: 100%;
+    opacity: 1;
+}
+
+.layer:nth-child(5) {
+    min-width: 100%;
+    opacity: 0.80;
+}
+
+.layer:nth-child(6) {
+    min-width: 100%;
+    opacity: 0.80;
+}
+
+.layer:nth-child(7) {
+    min-width: 100%;
+    opacity: 0.80;
+}
+
+.layer:nth-child(8) {
+    min-width: 100%;
+    opacity: 1;
+}
+
+.layer:nth-child(9) {
+    min-width: 100%;
+    opacity: 1;
+}
+
+.layer:nth-child(10) {
+    min-width: 100%;
+    opacity: 1;
+}
+
+.layer:nth-child(11) {
+    min-width: 100%;
+    opacity: 1.0;
+}

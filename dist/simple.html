@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<meta charset="utf-8">
+
+	<title>Parallax.js | Simple Example</title>
+
+	<!-- Behavioral Meta Data -->
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+	<!-- Styles -->
+	<link rel="stylesheet" type="text/css" href="styles/styles.css"/>
+
+</head>
+<body>
+
+	<div id="container" class="container">
+		<ul id="scene" class="scene">
+            
+            <li class="layer" data-depth="0.05"><img src="images/manHuntDown005-1-psd-01-01_cleaned.svg"></li>
+            <li class="layer" data-depth="0.10"><img src="images/manHuntDown005-1-psd-11_cleaned.svg"></li>
+            
+            <li class="layer" data-depth="0.10"><img src="images/manHuntDown005-1-psd-10_cleaned.svg"></li>
+            <li class="layer" data-depth="0.10"><img src="images/manHuntDown005-1-psd-09_cleaned.svg"></li>
+            
+            <li class="layer" data-depth="0.05"><img src="images/manHuntDown005-1-psd-04_cleaned.svg"></li>
+            <li class="layer" data-depth="0.05"><img src="images/manHuntDown005-1-psd-03_cleaned.svg"></li>
+            <li class="layer" data-depth="0.05"><img src="images/manHuntDown005-1-psd-02_cleaned.svg"></li>
+            
+            <li class="layer" data-depth="0.15"><img src="images/manHuntDown005-1-psd-06_cleaned.svg"></li>
+            <li class="layer" data-depth="0.15"><img src="images/manHuntDown005-1-psd-05_cleaned.svg"></li>
+            
+            <li class="layer" data-depth="0.15"><img src="images/manHuntDown005-1-psd-08_cleaned.svg"></li>
+            <li class="layer" data-depth="0.15"><img src="images/manHuntDown005-1-psd-07_cleaned.svg"></li>
+            
+
+            
+		</ul>
+	</div>
+
+	<!-- Scripts -->
+	<script src="scripts/parallax.js"></script>
+	<script>
+
+	// Pretty simple huh?
+	var scene = document.getElementById('scene');
+	var parallax = new Parallax(scene);
+
+	</script>
+
+</body>
+</html>
