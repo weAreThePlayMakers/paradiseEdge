@@ -15,7 +15,7 @@ in case you like the graphics and decide to fork the repo please keep in mind I 
 
 i strongly recommend forking and modification  only for personal use or in fact not at all
 
-on the other hand all code is added by [rafszul](https://github.com/rafszul) is licenced under gplv30 with some dependencies in form of adobe open licence which you can find in one of the folders 
+on the other hand all code is added by [rafszul](https://github.com/rafszul) is licenced under gplv30 with some dependencies in form of adobe open licence which you can find in one of the folders
 
 all in all you are welcome to copy, modify and distribute the code and i will be very keen on seeing potential mods and addons
 
