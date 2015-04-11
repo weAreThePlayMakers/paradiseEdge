@@ -1,25 +1,19 @@
 
 [paradiseEdge](https://github.com/weAreThePlayMakers/paradiseEdge) is a repository of graphics and code with a little markup intended as a demo of workflow for production of digital media for the web
 
-![Man hunt down][1]
+[![Man hunt down][1]](http://paradise-edge.surge.sh/)
 
-[MrEdgy Art](https://www.behance.net/Edgyart/) a lead artist is  responsible for the artwork used in the composition and a lead director of [Paradise diary](https://www.facebook.com/ParadiseDiary/)
+[MrEdgy Art](https://www.behance.net/Edgyart/) a lead artist is responsible for the artwork used in the composition and a lead director of [Paradise diary](https://www.facebook.com/ParadiseDiary/)
 
-check out the note from ecceHomo to trace the man and let him speak for himself
-
-or follow the links above
+check him out and let his work speak for him
 
 don't forget to take a look at the artwork and subscribe to updates about his promising cyberpunk production
 
-in case you like the graphics and decide to fork the repo please keep in mind I do not own the graphics and you need to contact the creator for any information about the licence under which they were published
+in case you decide to fork the repo please keep in mind the artwork presented is only a traced version of the original webseries and is used here as material for experimentations with svg specs.
 
-i strongly recommend forking and modification  only for personal use or in fact not at all
+in case you want to fork the repo and modify the graphics please drop me a line or get in touch with the author directly to talk permissions.
 
-on the other hand all code is added by [rafszul](https://github.com/rafszul) is licenced under gplv30 with some dependencies in form of adobe open licence which you can find in one of the folders
-
-all in all you are welcome to copy, modify and distribute the code and i will be very keen on seeing potential mods and addons
-
-
+on the other hand all the code and organisation of the files is by [rafszul](https://github.com/rafszul) and is released under gplv30 meaning "free as in freedom" unless stated otherwise.
 
 > written by [rafszul](https://github.com/rafszul) + [weAreThePlayMakers](http://wearetheplaymakers.com/) with [StackEdit](https://stackedit.io/)
 
